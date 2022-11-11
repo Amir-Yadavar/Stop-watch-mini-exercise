@@ -1,12 +1,12 @@
 # Stop-watch
 
-### stopWatch Like Samsung phones
+### stopwatch Like Samsung phones
 
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/110972269/201138970-c26930f8-bac0-4655-99e9-01ccd8b0a3de.png)
 
 
-- 🔗 [Demo Project]( https://amir-yadavar.github.io/Stop-watch-mini-exercise-/)
+- 🔗 [Demo Project](https://amir-yadavar.github.io/Stop-watch-mini-exercise-/)
 
 - 👨‍💻 Developed by Amir Yadavar
 
